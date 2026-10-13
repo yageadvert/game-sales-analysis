@@ -6,8 +6,9 @@ new_games/
 ├── README.md
 ├── data/
     └── new_games.csv
-└── notebooks/
+├── notebooks/
     └── new_games.ipynb
+└── requirements.txt   
 ```
 
 ### Цели и задачи проекта
@@ -1603,8 +1604,3 @@ df_actual["platform"].value_counts().head(7)
 При этом 44% игр остались без оценок критиков.
 
 Платформа, на которой вышло больше всего игр за заданный период - PS2 (2126), почти столько же на платформе DS (2120)
-
-
-```python
-
-```
