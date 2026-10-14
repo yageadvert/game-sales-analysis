@@ -65,7 +65,7 @@ new_games/
 
 
 ## Как запустить
-git clone https://github.com/yageadvert/game-sales-analysis.git\
+git clone https://github.com/yageadvert/game-sales-analysis.git \
 cd new_games\
 pip install -r requirements.txt\
 jupyter notebook
